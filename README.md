@@ -8,3 +8,4 @@ Randomized computer moves using Math.random()
 Persistent score tracking with localStorage
 Clean and responsive design with CSS
 This was a great learning experience, and I’m excited to improve and build more! 🚀
+Live Demo:-https://saugat2060.github.io/Rock_paper_scissor/
